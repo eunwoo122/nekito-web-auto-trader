@@ -1,0 +1,13 @@
+{
+    "strategy_name": "nekito_best_87.5",
+    "rsi_threshold": 34,
+    "volume_multiplier": 1.2,
+    "hour_start": 0,
+    "hour_end": 4,
+    "use_bb": false,
+    "use_macd": true,
+    "success_rate": 87.5,
+    "avg_return": 10.32,
+    "signals": 8,
+    "successes": 7
+}
