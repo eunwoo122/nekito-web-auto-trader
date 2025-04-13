@@ -1,4 +1,6 @@
-streamlit
-pandas
-matplotlib
 pyupbit
+ta
+matplotlib
+pandas
+requests
+streamlit
